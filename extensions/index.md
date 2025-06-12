@@ -10,9 +10,10 @@
 |x-ms-dynamic-list| describe parameters whose possible values are determined dynamically at runtime | Power Platform & Logic Apps| |
 |x-ms-dynamic-properties| describe schemas whose structure is determined dynamically at runtime | Power Platform & Logic Apps | |
 |x-ms-connector-metadata| Key value pairs of metadata | Power Platform & Logic Apps | |
-|x-ms-enum-values| Display names for enum values for properties | Power Platform & Logic Apps| |
 |x-ms-pageable| Pagination support for operations | Power Platform & Logic Apps| |
 |x-ms-dynamic-tree| describe a schema or parameter whose values are dynamically retrieved and presented in a tree structure (e.g., file system) | Power Platform & Logic Apps | |
+|x-ms-editor| Custom editor type for a property in UX | Power Platform & Logic Apps | |
+|x-ms-api-annotation| operation versioning and lifecycle | Power Platform & Logic Apps | |
 
 ## Client Code Generation Extensions
 
